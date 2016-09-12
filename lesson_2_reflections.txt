@@ -16,3 +16,11 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 by using git diff you can see what changes have been made since the
 comparison is between the working directory and the staging area.
+
+--
+
+How do the diagrams help you visualize the branch structure?
+
+diagrams help me view the non linear organization of git structure.
+the idea that some commits could be lost and non reachable is kind of shocking, but 
+with the knowledge of how to create new branches it is less stress inducing.
