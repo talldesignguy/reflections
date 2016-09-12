@@ -24,3 +24,10 @@ How do the diagrams help you visualize the branch structure?
 diagrams help me view the non linear organization of git structure.
 the idea that some commits could be lost and non reachable is kind of shocking, but 
 with the knowledge of how to create new branches it is less stress inducing.
+
+--
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+merging two brances combines the files together.  its represented to show that all of the commit history is 
+maintained from each branch.
