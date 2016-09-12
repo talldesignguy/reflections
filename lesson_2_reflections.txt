@@ -31,3 +31,10 @@ What is the result of merging two branches together? Why do we represent it in t
 
 merging two brances combines the files together.  its represented to show that all of the commit history is 
 maintained from each branch.
+
+--
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic merging will sve you time if the merges are easily accomplished. 
+when there are conflicts you will have to manually make the changes.
