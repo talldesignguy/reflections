@@ -1,0 +1,63 @@
+Using Diff to find the differences between two files helps
+save time when trying to debug issues that arise from slight
+changes to code and the possibility of spelling errors. 
+
+being able to wade through hundreds or thousands of lines of code
+with a tool that will only show you differences between the two
+instead of hunting and pecking can save hours!
+
+--
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+This would allow me to save time writing code that I may have already written
+in a previous version.  if I did not have access to the complete history 
+I would probably have to write and debug code over and over since it may have 
+been something I deleted previously.
+
+--
+
+What do you think are the pros and cons of manually choosing when to create a commit,
+like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Pros:
+Being able to control the logical order of your saves.  
+Saving only when your code will actually compile.
+
+Cons:
+Running the risk of forgetting to save
+
+--
+
+Why do you think some version control systems, like Git, allow saving multiple files
+in one commit, while others, like Google Docs, treat each file separately?
+
+With files in Google Docs they are more than likley not related to each other, or if
+they are related, Google Docs doesnt know that relationship.
+
+In Git you will make a repository of files that are very related and so
+will need to be committed together.
+
+--
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log shows the complete history of commits for a repository.
+
+git diff allows you to view the differences or changes between two commits.
+
+--
+
+How might using version control make you more confident to make changes that could break something?
+
+Being able to revert to old versions removes the wory about breaking things.
+You can easily revert back and so it makes testing and playing with code a worry 
+free task.
+
+--
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I don't really have any specific uses yet, but using it for any of my future projects
+seems like a very logical step.  I forsee it being a very helpfull tool.
