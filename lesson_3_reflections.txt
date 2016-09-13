@@ -22,4 +22,11 @@ in the same program or just a plce to try something differnt.
 
 a clone is simply a copy of a repository.  can be local or remote
 
-a fork is a copy of a repository but only inthe context of github
+a fork is a copy of a repository but only in the context of github
+
+--
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+this allows git to know if your local commit history is out of sync with the remote
+repository.  
