@@ -40,3 +40,11 @@ but that doesnt seem to be very efficient in the case of running and testing you
 
 collaborating using git and gitHub would allow you to work in your own environment that is
 familiar and configured the way you like.
+
+--
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I would use a new branch any time I want to make significant changes without risking
+the integrity of the main program.  That way I can test and debug the new code before integrating it
+into the master branch.  
