@@ -12,3 +12,14 @@ manually pulling/pushing changes give you the flexability to decide when code is
 appropriate to push/pull.  you may not want to push code to a public repository
 if that code is not ready for the public to see. Likewise you may not want to pull all changes
 from a a repository if there are multiple people working on the same project.
+
+--
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+a branch is a different line of your code.  could be a different project you want to work on
+in the same program or just a plce to try something differnt.
+
+a clone is simply a copy of a repository.  can be local or remote
+
+a fork is a copy of a repository but only inthe context of github
